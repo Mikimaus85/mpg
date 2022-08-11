@@ -1,0 +1,64 @@
+.meinbody {
+    font-family: 'Cormorant SC';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.meinh1 {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.meineausgabe {
+    font-family: 'Heebo', sans-serif;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.meinnavtext:hover {
+    font-weight: 600;
+    font-weight: bold;
+}
+
+.meinfooter {
+    font-size: 20px;
+}
+
+.meinp {
+    font-size: 20px;
+}
+
+.social {
+    width: 45px;
+    height: 45px;
+}
+
+#contact {
+    max-width: 100%;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo {
+    width: 250px;
+}
+
+#aendern {
+    margin-right: 5px;
+}
+
+#stern {
+    float: left;
+}
+
+.meintable {
+    height: 350px;
+    overflow-y: scroll;
+}
+
+.error {
+	color: red;
+	font-style: italic;
+}

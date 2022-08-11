@@ -1,0 +1,28 @@
+body {
+    font-family: 'Cormorant SC', serif;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+#table {
+    font-family: 'Heebo', sans-serif;
+    font-size: 15px;
+}
+
+#navtext {
+    font-size: 700;
+    font-weight: bold;
+}
+
+footer {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
